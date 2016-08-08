@@ -13,11 +13,11 @@
    height="414.39426"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="vaca.svg"
-   inkscape:export-filename="C:\Users\Sebastián\Dropbox\Personal\Diseños\vaca2.png"
-   inkscape:export-xdpi="720"
-   inkscape:export-ydpi="720">
+   inkscape:export-filename="C:\Users\Sebastián\Dropbox\Personal\Material para Clases\2015\Programacion 2\img\svg\vaca_c_fondo.png"
+   inkscape:export-xdpi="61.028839"
+   inkscape:export-ydpi="61.028839">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="363.86715"
-     inkscape:cy="211.80324"
+     inkscape:zoom="1.979899"
+     inkscape:cx="231.31835"
+     inkscape:cy="269.13245"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,9 +39,9 @@
      fit-margin-bottom="10"
      inkscape:window-width="1366"
      inkscape:window-height="745"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -101,7 +101,7 @@
        sodipodi:cy="332.12341"
        sodipodi:rx="64.649765"
        sodipodi:ry="54.548237"
-       d="m 544.47221,332.12341 c 0,30.12616 -28.94468,54.54824 -64.64976,54.54824 -35.70508,0 -64.64977,-24.42208 -64.64977,-54.54824 0,-30.12616 28.94469,-54.54823 64.64977,-54.54823 35.70508,0 64.64976,24.42207 64.64976,54.54823 z"
+       d="m 544.47221,332.12341 a 64.649765,54.548237 0 0 1 -64.64976,54.54824 64.649765,54.548237 0 0 1 -64.64977,-54.54824 64.649765,54.548237 0 0 1 64.64977,-54.54823 64.649765,54.548237 0 0 1 64.64976,54.54823 z"
        transform="matrix(1.0151343,0,0,1.0271962,24.052942,105.61981)" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.98563957;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -110,7 +110,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sscssccsss" />
     <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.22781372;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 218.48608,459.60927 c -4.70112,29.69401 -52.56524,53.93512 -84.58172,19.97302 -37.94123,25.88749 -77.491805,-13.74766 -72.790686,-43.44166 4.701117,-29.694 47.977676,-54.76632 78.906076,-28.12365 50.8116,-16.60117 83.16744,21.8983 78.46633,51.59229 z"
        id="path3757"
        inkscape:connector-curvature="0"
@@ -154,7 +154,7 @@
        sodipodi:cy="263.07648"
        sodipodi:rx="10.714286"
        sodipodi:ry="10.714286"
-       d="m 97.142859,263.07648 c 0,5.91733 -4.796949,10.71428 -10.714285,10.71428 -5.917337,0 -10.714286,-4.79695 -10.714286,-10.71428 0,-5.91734 4.796949,-10.71429 10.714286,-10.71429 5.917336,0 10.714285,4.79695 10.714285,10.71429 z"
+       d="M 97.142859,263.07648 A 10.714286,10.714286 0 0 1 86.428574,273.79076 10.714286,10.714286 0 0 1 75.714288,263.07648 10.714286,10.714286 0 0 1 86.428574,252.36219 10.714286,10.714286 0 0 1 97.142859,263.07648 Z"
        transform="matrix(0.9018639,0,0,0.9311399,83.915306,100.77089)" />
     <path
        sodipodi:type="arc"
@@ -164,7 +164,7 @@
        sodipodi:cy="263.07648"
        sodipodi:rx="10.714286"
        sodipodi:ry="10.714286"
-       d="m 97.142859,263.07648 c 0,5.91733 -4.796949,10.71428 -10.714285,10.71428 -5.917337,0 -10.714286,-4.79695 -10.714286,-10.71428 0,-5.91734 4.796949,-10.71429 10.714286,-10.71429 5.917336,0 10.714285,4.79695 10.714285,10.71429 z"
+       d="M 97.142859,263.07648 A 10.714286,10.714286 0 0 1 86.428574,273.79076 10.714286,10.714286 0 0 1 75.714288,263.07648 10.714286,10.714286 0 0 1 86.428574,252.36219 10.714286,10.714286 0 0 1 97.142859,263.07648 Z"
        transform="translate(168.42857,93.857134)" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
@@ -204,7 +204,7 @@
        sodipodi:cy="332.12341"
        sodipodi:rx="64.649765"
        sodipodi:ry="54.548237"
-       d="m 544.47221,332.12341 c 0,30.12616 -28.94468,54.54824 -64.64976,54.54824 -35.70508,0 -64.64977,-24.42208 -64.64977,-54.54824 0,-30.12616 28.94469,-54.54823 64.64977,-54.54823 35.70508,0 64.64976,24.42207 64.64976,54.54823 z"
+       d="m 544.47221,332.12341 a 64.649765,54.548237 0 0 1 -64.64976,54.54824 64.649765,54.548237 0 0 1 -64.64977,-54.54824 64.649765,54.548237 0 0 1 64.64977,-54.54823 64.649765,54.548237 0 0 1 64.64976,54.54823 z"
        transform="translate(-38.385797,7.0710678)" />
     <path
        sodipodi:type="arc"
@@ -214,7 +214,7 @@
        sodipodi:cy="332.12341"
        sodipodi:rx="64.649765"
        sodipodi:ry="54.548237"
-       d="m 544.47221,332.12341 c 0,30.12616 -28.94468,54.54824 -64.64976,54.54824 -35.70508,0 -64.64977,-24.42208 -64.64977,-54.54824 0,-30.12616 28.94469,-54.54823 64.64977,-54.54823 35.70508,0 64.64976,24.42207 64.64976,54.54823 z"
+       d="m 544.47221,332.12341 a 64.649765,54.548237 0 0 1 -64.64976,54.54824 64.649765,54.548237 0 0 1 -64.64977,-54.54824 64.649765,54.548237 0 0 1 64.64977,-54.54823 64.649765,54.548237 0 0 1 64.64976,54.54823 z"
        transform="matrix(0.7566266,0,0,0.6745204,52.831844,224.51204)" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
